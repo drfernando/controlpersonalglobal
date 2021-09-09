@@ -1,0 +1,12 @@
+.transparent-bk{
+    background-color: transparent;
+}
+.navbar{
+    height: 100px;
+    background: linear-gradient(90deg, rgba(22, 177, 224, 0.6) 0%, rgba(29, 98, 240, 0.8) 100%);
+}
+.logo{
+    height:100%;
+    max-height: 100px;
+    padding: 10px;
+}

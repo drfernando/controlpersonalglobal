@@ -1,0 +1,9 @@
+
+.tabs{
+    padding-top: 50px; 
+    background: linear-gradient(90deg, rgba(22, 177, 224, 0.6) 0%, rgba(29, 98, 240, 0.8) 100%);
+    margin-bottom: 0 !important;
+}
+.vacant-link{
+    color: white;
+}

@@ -1,0 +1,20 @@
+.vacant-tab-content{
+    padding: 20px;
+    margin: 0!important;
+    text-align: justify;
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 100%!important;
+    max-width: 100%!important;
+}
+.centered{
+    text-align: center;
+}
+.skill-container{
+    padding: 30px;
+}
+.orderList{
+    padding-left: 50px;
+}
+.section{
+    padding: 10px;
+}
